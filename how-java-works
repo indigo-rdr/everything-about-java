@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-21T11:48:33.999Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="-Yo-XGDEdN950RFqnlcz" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-21T11:49:06.593Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="AyzBAzLVGGDHy9ncFLrN" version="17.1.3" type="github">
   <diagram id="aOlKv17aX0OYTjOupnGj" name="Page-1">
     <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -11,25 +11,25 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HqiHFGcYthziNXAEXNsO-1" value="Java Source Code" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="HqiHFGcYthziNXAEXNsO-1" value="Java Source Code" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="300" y="50" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="HqiHFGcYthziNXAEXNsO-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HqiHFGcYthziNXAEXNsO-2" target="HqiHFGcYthziNXAEXNsO-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HqiHFGcYthziNXAEXNsO-2" value="Java Development Kit (JDK)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="HqiHFGcYthziNXAEXNsO-2" value="Java Development Kit (JDK)" style="whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="130" y="220" width="170" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="HqiHFGcYthziNXAEXNsO-4" value="Java Compiler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HqiHFGcYthziNXAEXNsO-4" value="Java Compiler" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="140" y="330" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HqiHFGcYthziNXAEXNsO-6" value="Java Runtime Environment (JRE)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HqiHFGcYthziNXAEXNsO-6" value="Java Runtime Environment (JRE)" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="570" y="170" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="HqiHFGcYthziNXAEXNsO-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HqiHFGcYthziNXAEXNsO-7" target="HqiHFGcYthziNXAEXNsO-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HqiHFGcYthziNXAEXNsO-7" value="Java Byte Code" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HqiHFGcYthziNXAEXNsO-7" value="Java Byte Code" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="390" y="360" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HqiHFGcYthziNXAEXNsO-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HqiHFGcYthziNXAEXNsO-9" target="HqiHFGcYthziNXAEXNsO-6">
@@ -39,13 +39,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HqiHFGcYthziNXAEXNsO-9" value="Java Virtual Machine &lt;br&gt;(JVM)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HqiHFGcYthziNXAEXNsO-9" value="Java Virtual Machine &lt;br&gt;(JVM)" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="260" y="480" width="360" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="HqiHFGcYthziNXAEXNsO-10" value="Just-in-Time Compiler (JIT)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HqiHFGcYthziNXAEXNsO-10" value="Just-in-Time Compiler (JIT)" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="270" y="520" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="HqiHFGcYthziNXAEXNsO-11" value="Hardware Platform" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HqiHFGcYthziNXAEXNsO-11" value="Hardware Platform" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="260" y="580" width="360" height="30" as="geometry" />
         </mxCell>
       </root>
